@@ -1,0 +1,22 @@
+
+body{
+  margin:0;
+  padding: 0;
+  background-color: black;
+}
+
+h1{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 70px;
+}
+h2{
+  font-family: monospace;
+}
+.cor1{
+  background-color: rgb(255, 255, 255);
+}
+.cor2{
+  color:rgb(0, 0, 0);
+}
